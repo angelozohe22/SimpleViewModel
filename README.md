@@ -1,5 +1,4 @@
 # SimpleViewModel
-Create a simple ViewModel
 In this case, we are going to create a simple app example
 usign ViewModel using ViewBinding to bind our components.
 
